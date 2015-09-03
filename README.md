@@ -2,16 +2,15 @@
 
 jQuery APi App
 
-Week 3 project at HackerYou's Full-Time Front-End Web Development Immersive Bootcamp.
+Week 5 project at HackerYou's Full-Time Front-End Web Development Immersive Bootcamp.
 
 The requirements were:
 
-1. Use the jQuery Library
-2. Interact with the DOM (HTML) using events (such as a click)
-3. Take input from the user
-4. Update and edit HTML with jQuery
-5. Nice looking and responsive HTML + CSS to go along with jQuery
-6. It should be using the latest techniques learned in class.
+1. Organize your code using an object app
+2. Allow a user to interact with your app in some way, eg. a search field or drop-down list that changes results
+3. Display results in your own custom format
+4. Your own style/design
+5. It should be using the latest techniques learned in class.
     - APIs
     - JavaScript
     - jQuery
